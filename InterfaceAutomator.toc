@@ -1,0 +1,12 @@
+## Interface: 80300
+## Title: |cff7649a3InterfaceAutomator|r
+## Version: 1.0.0
+## Notes: An event based automator for CVars and other interface settings.
+## Author: Ike Johnston
+## SavedVariables: InterfaceAutomatorDB
+
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
+
+InterfaceAutomator.lua
